@@ -1,7 +1,7 @@
 import { createStore } from "redux";
 
 const INITIAL_STATE = {
-  data: ["React Native", "ReactJS", "NodeJS"]
+  data: ["React Native", "ReactJS", "NodeJS", "VueJS"]
 };
 
 function courses(state = INITIAL_STATE, action) {
